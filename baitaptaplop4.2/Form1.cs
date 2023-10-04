@@ -24,11 +24,12 @@ namespace baitaptaplop4._2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string s;
+            string s="phương trinh có nghiệm là";
             float a = float.Parse(textBox1.Text);
             float b = float.Parse(textBox2.Text);
-            float c = float.Parse(textBox3.Text);
-            Tính giai = new Tính(a, b, c);
+          
+            Tính giai = new Tính();
+            textBox4.Text = s + giai.Tinhphuongtrinhb1(a,b);
             if (radioButton1.Checked){
                 MessageBox.Show(giai.Tinhphuongtrinhb1(a,b));}
 
@@ -57,10 +58,16 @@ namespace baitaptaplop4._2
                 textBox3.Enabled = false;
             else
                 textBox3.Enabled = true;
+            label5.Enabled = true;
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         { 
+
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

@@ -6,3 +6,4 @@ E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitaptaplop4.2\obj\Debug
 E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitaptaplop4.2\obj\Debug\baitaptaplop4.2.csproj.GenerateResource.Cache
 E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitaptaplop4.2\obj\Debug\baitaptaplop4.2.exe
 E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitaptaplop4.2\obj\Debug\baitaptaplop4.2.pdb
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitaptaplop4.2\obj\Debug\baitaptaplop4.2.csprojResolveAssemblyReference.cache
