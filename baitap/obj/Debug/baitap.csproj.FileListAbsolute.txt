@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitap\bin\Debug\baitap.exe.config
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitap\obj\Debug\baitap.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitap\obj\Debug\baitap.Form1.resources
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitap\obj\Debug\baitap.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\baitap\baitap\obj\Debug\baitap.csproj.GenerateResource.Cache
